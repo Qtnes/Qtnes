@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Emma and I'm a Software Engineering student @ 42 Paris.</h2>
+<h2 align="left">Hi 👋! I'm Qtnes and a Cybersecurity Student @ 2600 .</h2>
 
 ###
 
