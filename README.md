@@ -47,7 +47,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://qtnes.com" target="_blank">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Blog-green&style=for-the-badge" height="35">
+    <img alt="Peronal Blog" src="https://img.shields.io/badge/Blog-green?style=for-the-badge" height="35">
   </a>
 </div>
 
